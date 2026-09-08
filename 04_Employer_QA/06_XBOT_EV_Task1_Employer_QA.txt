@@ -1,0 +1,22 @@
+XBOT EV — TASK 1: EMPLOYER Q&A
+
+Q1. What was the purpose of Task 1?
+The purpose of Task 1 was to create a professional, platform-specific marketing campaign for XBOT EV across Instagram Feed, Instagram Story and Facebook Cover formats. I focused on presenting XBOT EV as a premium, futuristic and intelligent mobility brand while maintaining one consistent visual identity and avoiding unsupported technical or performance claims.
+
+Q2. Which tools did you use, and how many?
+I used five core tools: Adobe Photoshop, Adobe Illustrator, ChatGPT, AI image-generation/editing tools, and Microsoft PowerPoint.
+
+Adobe Photoshop — product-image refinement, cleanup, cropping, resizing, composition adjustments and preparing visual assets for the final creatives.
+Adobe Illustrator — vector-based design work, branding elements, typography control and clean scalable graphical elements.
+ChatGPT — AI-assisted creative direction, copy refinement, campaign structure, consistency checks and reviewing the work against the brief.
+AI image-generation/editing tools — creating and refining XBOT EV product imagery where supplied assets were limited or inconsistent.
+Microsoft PowerPoint — editable presentation files, documentation, handover structure and final submission preparation.
+
+Q3. How did you create the task?
+I reviewed the brief and required platform sizes, assessed the available assets, established a consistent futuristic visual direction, refined product imagery, built three platform-specific compositions, and performed quality checks for hierarchy, readability, product consistency, brand alignment and claim safety. I then prepared publishing-ready images, editable source files and governance documentation.
+
+Q4. What business value does the task provide?
+The result gives XBOT EV a coherent multi-platform campaign direction that can be reused across social channels and adapted for future marketing. It improves brand consistency, speeds future creative production and provides editable source material for ongoing work.
+
+BEST SHORT INTERVIEW ANSWER
+For Task 1, I created a multi-platform XBOT EV marketing campaign for Instagram Feed, Instagram Story and Facebook Cover. I used five core tools: Adobe Photoshop for image refinement, Adobe Illustrator for vector and branding work, ChatGPT for creative direction and quality-control support, AI image-generation/editing tools for product-visual development, and Microsoft PowerPoint for editable documentation and handover. I followed a structured workflow from brief analysis and asset preparation through platform-specific design, consistency review, claim-safety checks and final packaging. The purpose was to create a consistent, reusable campaign system rather than three isolated graphics.
